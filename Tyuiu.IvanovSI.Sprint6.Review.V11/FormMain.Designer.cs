@@ -114,7 +114,7 @@ namespace Tyuiu.IvanovSI.Sprint6.Review.V11
             this.labelOT_ISI.Size = new System.Drawing.Size(20, 13);
             this.labelOT_ISI.TabIndex = 1;
             this.labelOT_ISI.Text = "От";
-            this.labelOT_ISI.Click += new System.EventHandler(this.labelDO_ISI_Click);
+      
             // 
             // labelDO_ISI
             // 
@@ -124,7 +124,7 @@ namespace Tyuiu.IvanovSI.Sprint6.Review.V11
             this.labelDO_ISI.Size = new System.Drawing.Size(19, 13);
             this.labelDO_ISI.TabIndex = 1;
             this.labelDO_ISI.Text = "до";
-            this.labelDO_ISI.Click += new System.EventHandler(this.labelDO_ISI_Click);
+           
             // 
             // labelNA_ISI
             // 
@@ -143,7 +143,7 @@ namespace Tyuiu.IvanovSI.Sprint6.Review.V11
             this.labelSize_ISI.Size = new System.Drawing.Size(101, 13);
             this.labelSize_ISI.TabIndex = 1;
             this.labelSize_ISI.Text = "Размеры массива";
-            this.labelSize_ISI.Click += new System.EventHandler(this.labelSize_ISI_Click);
+          
             // 
             // textBoxN2_ISI
             // 
@@ -151,7 +151,7 @@ namespace Tyuiu.IvanovSI.Sprint6.Review.V11
             this.textBoxN2_ISI.Name = "textBoxN2_ISI";
             this.textBoxN2_ISI.Size = new System.Drawing.Size(51, 20);
             this.textBoxN2_ISI.TabIndex = 0;
-            this.textBoxN2_ISI.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
+           
             // 
             // textBoxN1_ISI
             // 
@@ -159,7 +159,7 @@ namespace Tyuiu.IvanovSI.Sprint6.Review.V11
             this.textBoxN1_ISI.Name = "textBoxN1_ISI";
             this.textBoxN1_ISI.Size = new System.Drawing.Size(51, 20);
             this.textBoxN1_ISI.TabIndex = 0;
-            this.textBoxN1_ISI.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            
             // 
             // textBoxM_ISI
             // 
@@ -226,7 +226,7 @@ namespace Tyuiu.IvanovSI.Sprint6.Review.V11
             this.labelC_ISI.Size = new System.Drawing.Size(85, 13);
             this.labelC_ISI.TabIndex = 1;
             this.labelC_ISI.Text = "Номер столбца";
-            this.labelC_ISI.Click += new System.EventHandler(this.labelDO_ISI_Click);
+            
             // 
             // groupBoxRes_ISI
             // 
@@ -259,7 +259,7 @@ namespace Tyuiu.IvanovSI.Sprint6.Review.V11
             this.label2.Size = new System.Drawing.Size(89, 13);
             this.label2.TabIndex = 1;
             this.label2.Text = "Номер от K до L";
-            this.label2.Click += new System.EventHandler(this.labelDO_ISI_Click);
+       
             // 
             // label1
             // 
@@ -269,7 +269,7 @@ namespace Tyuiu.IvanovSI.Sprint6.Review.V11
             this.label1.Size = new System.Drawing.Size(141, 13);
             this.label1.TabIndex = 1;
             this.label1.Text = "Максимальный элемент =\r\n";
-            this.label1.Click += new System.EventHandler(this.labelSize_ISI_Click);
+
             // 
             // FormMain
             // 

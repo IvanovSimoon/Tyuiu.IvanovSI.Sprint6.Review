@@ -17,25 +17,7 @@ namespace Tyuiu.IvanovSI.Sprint6.Review.V11
             InitializeComponent();
         }
         DataService ds = new DataService();
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void labelDO_ISI_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox4_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void labelSize_ISI_Click(object sender, EventArgs e)
-        {
-
-        }
+        
 
         private void buttonDo_ISI_Click(object sender, EventArgs e)
         {
